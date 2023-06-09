@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hijo de puta
+=======
+hijo de puta y forro de mierda
+>>>>>>> main
